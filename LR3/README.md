@@ -7,5 +7,6 @@ sh start.sh запустим сборку контейнера и подниме
 
 Возьмём postgress:
 В результате манипуляций image уменьшился в два раза, донаркоманились
+[img](https://github.com/ShadowCatLul/docker-kuber/edit/main/sources/Picture4.png)
 
 
