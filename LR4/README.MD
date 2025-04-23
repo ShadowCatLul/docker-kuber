@@ -11,4 +11,5 @@ kubectl apply -f k8s/deployment.yaml
 
 Поды подняты, сервис вроде работает
 
-https://github.com/ShadowCatLul/docker-kuber/blob/main/sources/Picture6.png
+![img](https://github.com/ShadowCatLul/docker-kuber/blob/main/sources/Picture6.png)
+
