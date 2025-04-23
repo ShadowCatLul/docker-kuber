@@ -5,8 +5,9 @@
 
 sh start.sh запустим сборку контейнера и поднимем сервис
 
-Возьмём postgress:
+Возьмём postgres:
 В результате манипуляций image уменьшился в два раза, донаркоманились
-![img](https://github.com/ShadowCatLul/docker-kuber/edit/main/sources/Picture4.png)
+
+![img](https://github.com/ShadowCatLul/docker-kuber/blob/main/sources/Picture4.png)
 
 
